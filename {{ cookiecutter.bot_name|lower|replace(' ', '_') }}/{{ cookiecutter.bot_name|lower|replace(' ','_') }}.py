@@ -4,7 +4,7 @@ import os
 
 from telebot import TeleBot
 
-from exceptions import TokenNotDefined
+from utils import TokenNotDefined
 
 
 TOKEN = os.environ.get('TOKEN')

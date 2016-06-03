@@ -1,0 +1,2 @@
+class TokenNotDefined(Exception):
+    pass

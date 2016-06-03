@@ -1,2 +1,0 @@
-class TokenNotDefined:
-    pass
